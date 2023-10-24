@@ -3,9 +3,9 @@
 // @namespace   Violentmonkey Scripts
 // @match       *://*.history.go.kr/*
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      -
-// @description 2023-10-15, 21:14:54
+// @description 2023-10-24, 06:58:00
 // @grant    GM_addStyle
 // ==/UserScript==
 // Conversion table obtained from https://github.com/saschanaz/hypua-unicoder/blob/master/sources/db.ts
