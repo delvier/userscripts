@@ -5680,4 +5680,4 @@ for (x of q) {
   y.nodeValue = db[y.nodeValue];
 }
 
-GM_addStyle("body, .cont_view, .oldHan {font-family: sans-serif !important;}");
+GM_addStyle("body, .cont_view, .tbl_bbs_list, .oldHan {font-family: sans-serif !important;}");
